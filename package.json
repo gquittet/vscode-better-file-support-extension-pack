@@ -1,0 +1,28 @@
+{
+    "name": "vscode-better-file-support-extension-pack",
+    "displayName": "Better File Support Extension Pack",
+    "description": "Add support for common file types.",
+    "publisher": "gquittet",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-file-support-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-file-support-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "DotJoshJohnson.xml",
+        "jock.svg",
+        "mikestead.dotenv",
+        "redhat.vscode-yaml",
+        "tamasfe.even-better-toml"
+    ]
+}
