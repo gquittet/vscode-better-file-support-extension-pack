@@ -3,7 +3,7 @@
     "displayName": "Better File Support Extension Pack",
     "description": "Add support for common file types.",
     "publisher": "gquittet",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git@github.com:gquittet/vscode-better-file-support-extension-pack.git"
