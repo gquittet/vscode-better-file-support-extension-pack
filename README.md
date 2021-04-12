@@ -11,6 +11,7 @@ To fix this, I made this extension pack that add support for more file types lik
 ## List of extensions built-in
 
 - DotJoshJohnson.xml
+- jebbs.plantuml
 - jock.svg
 - mikestead.dotenv
 - redhat.vscode-yaml

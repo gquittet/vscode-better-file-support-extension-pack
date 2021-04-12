@@ -20,6 +20,7 @@
     ],
     "extensionPack": [
         "DotJoshJohnson.xml",
+        "jebbs.plantuml",
         "jock.svg",
         "mikestead.dotenv",
         "redhat.vscode-yaml",
